@@ -1,2 +1,1 @@
 information about project
-в новой ветке создайте папку blog с файлами: index.js, index.html;
